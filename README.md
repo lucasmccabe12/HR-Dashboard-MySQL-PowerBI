@@ -3,7 +3,7 @@ HR-Dashboard-MySQL-PowerBI
 ![Screenshot 2024-08-07 173832](https://github.com/user-attachments/assets/079bf31f-aff3-48b1-960e-bf00c8bc70ea)
 
 Data Used
-- Data: HR Data with over 22,000 rows from the year 2000 to 2020.
+- Data: HR data with over 22,000 rows from the year 2000 to 2020.
 - Data Cleaning & Analysis: MySQL Workbench
 - Data Visualization: PowerBI
 
